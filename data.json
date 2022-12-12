@@ -5,6 +5,12 @@
 },
  {
 	"id": 2,
-	"name": "birthdaycard",
+	"name": "Hippo",
 	"image": "BirthdayCard2"
- }]
+ },
+ {
+	"id": 3,
+	"name": "Car",
+	"image": "BirthdayCard3"
+ }
+]
