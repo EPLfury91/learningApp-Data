@@ -1,16 +1,19 @@
 [{
 	"id": 1,
 	"name": "eye",
-	"image": "eye.url"
+	"image": "eye.url",
+	"price": 4.00
 },
  {
 	"id": 2,
 	"name": "Hippo",
-	"image": "BirthdayCard2"
+	"image": "BirthdayCard2",
+	 "price": 4.00
  },
  {
 	"id": 3,
 	"name": "Car",
-	"image": "BirthdayCard3"
+	"image": "BirthdayCard3",
+	 "price": 4.00
  }
 ]
