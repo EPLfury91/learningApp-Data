@@ -2,18 +2,21 @@
 	"id": 1,
 	"name": "eye",
 	"image": "eye.url",
-	"price": 4.00
+	"price": 4.00,
+	"caption": "HELLO"
 },
  {
 	"id": 2,
 	"name": "Hippo",
 	"image": "BirthdayCard2",
-	 "price": 4.00
+	 "price": 4.00,
+	"caption": "HIP HIP Hello"
  },
  {
 	"id": 3,
 	"name": "Car",
 	"image": "BirthdayCard3",
-	 "price": 4.00
+	 "price": 4.00,
+	"caption": "Car you have a good BDAY!"
  }
 ]
