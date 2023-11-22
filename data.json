@@ -32,11 +32,11 @@
  },
 	{
 	"id": 5,
-	"name": "Hippo",
-	 "category": "Anniversary",
-	"image": "BirthdayCard2",
+	"name": "STOP",
+	 "category": "Save the Date",
+	"image": "Love",
 	 "price": 5.00,
-	"caption": "HIP HIP Hello"
+	"caption": "STOP What you're doing!"
  },
 	{
 	"id": 6,
