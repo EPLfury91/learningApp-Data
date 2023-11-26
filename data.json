@@ -4,10 +4,10 @@
 	"category": "Birthday",
 	"image": "eye.url",
 	"price": 4.00,
-	"hairPlacex": 0,
-    	"hairPlacey": 0,
-	"eyePlacex": -45,
-    	"eyePlacey": -150,
+	"hairPlacex": 0.00,
+    	"hairPlacey": 0.00,
+	"eyePlacex": -45.00,
+    	"eyePlacey": -150.00,
 	"caption": "HELLO"
 },
  {
@@ -16,10 +16,10 @@
 	 "category": "Birthday",
 	"image": "BirthdayCard2",
 	 "price": 4.00,
-	 "hairPlacex": 0,
-    	"hairPlacey": 0,
-	"eyePlacex": -45,
-    	"eyePlacey": -150,
+	 "hairPlacex": 0.00,
+    	"hairPlacey": 0.00,
+	"eyePlacex": -45.00,
+    	"eyePlacey": -150.00,
 	"caption": "HIP HIP Hello"
  },
  {
@@ -28,10 +28,10 @@
 	 "category": "Birthday",
 	"image": "BirthdayCard3",
 	 "price": 4.00,
-	 "hairPlacex": 0,
-    	"hairPlacey": 0,
-	"eyePlacex": -45,
-    	"eyePlacey": -150,
+	 "hairPlacex": 0.00,
+    	"hairPlacey": 0.00,
+	"eyePlacex": -45.00,
+    	"eyePlacey": -150.00,
 	"caption": "Car you have a good BDAY!"
  },
  {
@@ -40,10 +40,10 @@
 	 "category": "Anniversary",
 	"image": "Love1",
 	 "price": 4.00,
-	 "hairPlacex": 0,
-    	"hairPlacey": 0,
-	"eyePlacex": -45,
-    	"eyePlacey": -150,
+	"hairPlacex": 0.00,
+    	"hairPlacey": 0.00,
+	"eyePlacex": -45.00,
+    	"eyePlacey": -150.00,
 	"caption": "True Love know's no bounds"
  },
 	{
@@ -52,10 +52,10 @@
 	 "category": "Save the Date",
 	"image": "Stop",
 	 "price": 5.00,
-		"hairPlacex": 0,
-    	"hairPlacey": 0,
-	"eyePlacex": -45,
-    	"eyePlacey": -150,
+	"hairPlacex": 0.00,
+    	"hairPlacey": 0.00,
+	"eyePlacex": -45.00,
+    	"eyePlacey": -150.00,
 	"caption": "STOP What you're doing!"
 	
  },
@@ -65,10 +65,10 @@
 	 "category": "Christmas",
 	"image": "BirthdayCard3",
 	 "price": 7.00,
-		"hairPlacex": 0,
-    	"hairPlacey": 0,
-	"eyePlacex": -45,
-    	"eyePlacey": -150,
+	"hairPlacex": 0.00,
+    	"hairPlacey": 0.00,
+	"eyePlacex": -45.00,
+    	"eyePlacey": -150.00,
 	"caption": "Car you have a good BDAY!"
 		
  },
@@ -78,10 +78,10 @@
 	 "category": "Christmas",
 	"image": "Love1",
 	 "price": 4.00,
-		"hairPlacex": 0,
-    	"hairPlacey": 0,
-	"eyePlacex": -45,
-    	"eyePlacey": -150,
+	"hairPlacex": 0.00,
+    	"hairPlacey": 0.00,
+	"eyePlacex": -45.00,
+    	"eyePlacey": -150.00,
 	"caption": "True Love know's no bounds"
 		
  }
