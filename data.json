@@ -84,5 +84,53 @@
     	"eyePlacey": -150.00,
 	"caption": "True Love know's no bounds"
 		
+ },
+	{
+	"id": 8,
+	"name": "Hippo",
+	 "category": "Birthday",
+	"image": "BirthdayCard2",
+	 "price": 4.00,
+	 "hairPlacex": 0.00,
+    	"hairPlacey": 0.00,
+	"eyePlacex": -45.00,
+    	"eyePlacey": -150.00,
+	"caption": "HIP HIP Hello"
+ },
+ {
+	"id": 9,
+	"name": "Car",
+	 "category": "Birthday",
+	"image": "BirthdayCard3",
+	 "price": 4.00,
+	 "hairPlacex": 0.00,
+    	"hairPlacey": 0.00,
+	"eyePlacex": -45.00,
+    	"eyePlacey": -150.00,
+	"caption": "Car you have a good BDAY!"
+ },
+	{
+	"id": 10,
+	"name": "Hippo",
+	 "category": "Birthday",
+	"image": "BirthdayCard2",
+	 "price": 4.00,
+	 "hairPlacex": 0.00,
+    	"hairPlacey": 0.00,
+	"eyePlacex": -45.00,
+    	"eyePlacey": -150.00,
+	"caption": "HIP HIP Hello"
+ },
+ {
+	"id": 11,
+	"name": "Car",
+	 "category": "Birthday",
+	"image": "BirthdayCard3",
+	 "price": 4.00,
+	 "hairPlacex": 0.00,
+    	"hairPlacey": 0.00,
+	"eyePlacex": -45.00,
+    	"eyePlacey": -150.00,
+	"caption": "Car you have a good BDAY!"
  }
 ]
