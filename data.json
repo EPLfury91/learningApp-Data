@@ -44,8 +44,8 @@
 	"image": "Love1",
 	 "page2": "HAp2",
 	 "price": 4.00,
-	"hairPlacex": 0.00,
-    	"hairPlacey": 0.00,
+	"hairPlacex": 45.00,
+    	"hairPlacey": 150.00,
 	"eyePlacex": 45.00,
     	"eyePlacey": 150.00,
 	"caption": "True Love know's no bounds"
