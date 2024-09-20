@@ -59,8 +59,8 @@
 	 "price": 5.00,
 	"hairPlacex": 0.00,
     	"hairPlacey": 0.00,
-	"eyePlacex": -45.00,
-    	"eyePlacey": -150.00,
+	"eyePlacex": 60,
+    	"eyePlacey": 150.00,
 	"caption": "STOP What you're doing!"
 	
  },
