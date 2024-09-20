@@ -46,7 +46,7 @@
 	 "price": 4.00,
 	"hairPlacex": 45.00,
     	"hairPlacey": 150.00,
-	"eyePlacex": 45.00,
+	"eyePlacex": -45.00,
     	"eyePlacey": 150.00,
 	"caption": "True Love know's no bounds"
  },
