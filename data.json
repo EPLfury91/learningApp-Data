@@ -14,16 +14,16 @@
  },
  {
 	"id": 3,
-	"name": "Car",
+	"name": "Golf",
 	 "category": "Birthday",
-	"image": "BirthdayCard3",
+	"image": "Golf Draft 1",
 	 "page2": "HAp2",
 	 "price": 4.00,
 	 "hairPlacex": 0.00,
     	"hairPlacey": 0.00,
 	"eyePlacex": -45.00,
     	"eyePlacey": -150.00,
-	"caption": "Car you have a good BDAY!"
+	"caption": "You're a hole in 1!"
  },
  {
 	"id": 4,
