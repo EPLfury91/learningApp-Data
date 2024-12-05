@@ -81,16 +81,16 @@
  },
 	{
 	"id": 8,
-	"name": "Hippo",
+	"name": "Golf 2",
 	"category": "Birthday",
-	"image": "BirthdayCard1",
+	"image": "Golf2",
 	"page2": "HA1",
 	"price": 4.00,
 	"hairPlacex": 0.00,
     	"hairPlacey": 0.00,
 	"eyePlacex": -45.00,
     	"eyePlacey": -150.00,
-	"caption": "HIP HIP Hello"
+	"caption": "Fore!!"
  },
  {
 	"id": 9,
