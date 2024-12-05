@@ -94,16 +94,16 @@
  },
  {
 	"id": 9,
-	"name": "Car",
-	 "category": "Birthday",
-	"image": "BirthdayCard1",
-	 "page2": "HA1",
+	"name": "Party Time",
+	"category": "Birthday",
+	"image": "Celebration1",
+	"page2": "HA1",
 	 "price": 4.00,
 	 "hairPlacex": 0.00,
     	"hairPlacey": 0.00,
 	"eyePlacex": -45.00,
     	"eyePlacey": -150.00,
-	"caption": "Car you have a good BDAY!"
+	"caption": "Time to Party!"
  },
 	{
 	"id": 10,
