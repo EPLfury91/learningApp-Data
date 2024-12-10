@@ -130,5 +130,18 @@
 	"eyePlacex": -45.00,
     	"eyePlacey": 150.00,
 	"caption": "Car you have a good BDAY!"
+ },
+	{
+	"id": 12,
+	"name": "Forever",
+	"category": "Love",
+	"image": "ForeverandAlways",
+	"page2": "HA1",
+	"price": 4.00,
+	"hairPlacex": 0.00,
+    	"hairPlacey": 0.00,
+	"eyePlacex": -45.00,
+    	"eyePlacey": 150.00,
+	"caption": "Be my forever"
  }
 ]
