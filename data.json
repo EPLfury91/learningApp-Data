@@ -140,8 +140,8 @@
 	"price": 4.00,
 	"hairPlacex": 0.00,
     	"hairPlacey": 0.00,
-	"eyePlacex": -45.00,
-    	"eyePlacey": 150.00,
+	"eyePlacex": 0.00,
+    	"eyePlacey": 0.00,
 	"caption": "Be my forever"
  }
 ]
