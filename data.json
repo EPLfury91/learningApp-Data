@@ -21,7 +21,7 @@
 	 "price": 4.00,
 	 "hairPlacex": 0.00,
     	"hairPlacey": 0.00,
-	"eyePlacex": -45.00,
+	"eyePlacex": 10.00,
     	"eyePlacey": -150.00,
 	"caption": "You're a hole in 1!"
  },
@@ -88,7 +88,7 @@
 	"price": 4.00,
 	"hairPlacex": 0.00,
     	"hairPlacey": 0.00,
-	"eyePlacex": -45.00,
+	"eyePlacex": 10.00,
     	"eyePlacey": -150.00,
 	"caption": "Fore!!"
  },
@@ -101,7 +101,7 @@
 	 "price": 4.00,
 	 "hairPlacex": 0.00,
     	"hairPlacey": 0.00,
-	"eyePlacex": -45.00,
+	"eyePlacex": 10.00,
     	"eyePlacey": -150.00,
 	"caption": "Time to Party!"
  },
