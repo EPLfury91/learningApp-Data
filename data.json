@@ -143,5 +143,31 @@
 	"eyePlacex": 0.00,
     	"eyePlacey": 0.00,
 	"caption": "Be my forever"
+ },
+	{
+	"id": 13,
+	"name": "Penguin Love",
+	"category": "Love",
+	"image": "PenguinLove1",
+	"page2": "Blank",
+	"price": 4.00,
+	"hairPlacex": 0.00,
+    	"hairPlacey": 0.00,
+	"eyePlacex": 0.00,
+    	"eyePlacey": 0.00,
+	"caption": "You're my rock."
+ },
+	{
+	"id": 13,
+	"name": "Penguin Love",
+	"category": "Love",
+	"image": "PenguinLove2",
+	"page2": "Blank",
+	"price": 4.00,
+	"hairPlacex": 0.00,
+    	"hairPlacey": 0.00,
+	"eyePlacex": 0.00,
+    	"eyePlacey": 0.00,
+	"caption": "You're my rock."
  }
 ]
