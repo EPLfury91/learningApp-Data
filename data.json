@@ -9,7 +9,7 @@
 	 "hairPlacex": 0.00,
     	"hairPlacey": 0.00,
 	"eyePlacex": 10.00,
-    	"eyePlacey": 150.00,
+    	"eyePlacey": 100.00,
 	"caption": "HIP HIP Hello"
  },
  {
@@ -22,7 +22,7 @@
 	 "hairPlacex": 0.00,
     	"hairPlacey": 0.00,
 	"eyePlacex": 10.00,
-    	"eyePlacey": -150.00,
+    	"eyePlacey": 100.00,
 	"caption": "You're a hole in 1!"
  },
  {
@@ -32,10 +32,10 @@
 	"image": "Love1",
 	 "page2": "Blank",
 	 "price": 4.00,
-	"hairPlacex": 45.00,
-    	"hairPlacey": 150.00,
-	"eyePlacex": -45.00,
-    	"eyePlacey": 150.00,
+	"hairPlacex": 0.00,
+    	"hairPlacey": 0.00,
+	"eyePlacex": 10.00,
+    	"eyePlacey": 100.00,
 	"caption": "True Love know's no bounds"
  },
 	{
@@ -56,12 +56,12 @@
 	"name": "BrideGroom1",
 	 "category": "Save the Date",
 	"image": "BrideGroom1",
-	"page2": "HA1",
+	 "page2": "Blank",
 	 "price": 7.00,
 	"hairPlacex": 0.00,
     	"hairPlacey": 0.00,
-	"eyePlacex": -45.00,
-    	"eyePlacey": -150.00,
+	"eyePlacex": 10.00,
+    	"eyePlacey": 100.00,
 	"caption": "Car you have a good BDAY!"
 		
  },
@@ -74,8 +74,8 @@
 	"price": 4.00,
 	"hairPlacex": 0.00,
     	"hairPlacey": 0.00,
-	"eyePlacex": -45.00,
-    	"eyePlacey": -150.00,
+	"eyePlacex": 10.00,
+    	"eyePlacey": 100.00,
 	"caption": "True Love know's no bounds"
 		
  },
@@ -89,7 +89,7 @@
 	"hairPlacex": 0.00,
     	"hairPlacey": 0.00,
 	"eyePlacex": 10.00,
-    	"eyePlacey": -150.00,
+    	"eyePlacey": 100.00,
 	"caption": "Fore!!"
  },
  {
@@ -102,7 +102,7 @@
 	 "hairPlacex": 0.00,
     	"hairPlacey": 0.00,
 	"eyePlacex": 10.00,
-    	"eyePlacey": -150.00,
+    	"eyePlacey": 100.00,
 	"caption": "Time to Party!"
  },
 	{
@@ -114,8 +114,8 @@
 	"price": 4.00,
 	"hairPlacex": 0.00,
     	"hairPlacey": 0.00,
-	"eyePlacex": 45.00,
-    	"eyePlacey": 150.00,
+	"eyePlacex": 10.00,
+    	"eyePlacey": 100.00,
 	"caption": "HIP HIP Hello"
  },
  {
@@ -127,8 +127,8 @@
 	"price": 4.00,
 	"hairPlacex": 0.00,
     	"hairPlacey": 0.00,
-	"eyePlacex": -45.00,
-    	"eyePlacey": 150.00,
+	"eyePlacex": 10.00,
+    	"eyePlacey": 100.00,
 	"caption": "Car you have a good BDAY!"
  },
 	{
@@ -140,8 +140,8 @@
 	"price": 4.00,
 	"hairPlacex": 0.00,
     	"hairPlacey": 0.00,
-	"eyePlacex": 0.00,
-    	"eyePlacey": 0.00,
+	"eyePlacex": 10.00,
+    	"eyePlacey": 100.00,
 	"caption": "Be my forever"
  },
 	{
@@ -153,8 +153,8 @@
 	"price": 4.00,
 	"hairPlacex": 0.00,
     	"hairPlacey": 0.00,
-	"eyePlacex": 0.00,
-    	"eyePlacey": 0.00,
+	"eyePlacex": 10.00,
+    	"eyePlacey": 100.00,
 	"caption": "You're my rock."
  },
 	{
@@ -166,8 +166,8 @@
 	"price": 4.00,
 	"hairPlacex": 0.00,
     	"hairPlacey": 0.00,
-	"eyePlacex": 0.00,
-    	"eyePlacey": 0.00,
+	"eyePlacex": 10.00,
+    	"eyePlacey": 100.00,
 	"caption": "You're my rock."
  }
 ]
