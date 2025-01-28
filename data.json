@@ -9,6 +9,7 @@
 	 "hairPlacex": 0.00,
     	"hairPlacey": 0.00,
 	"eyePlacex": 10.00,
+	 "page2CaptionChoices": ["Happy Birthday"],
     	"eyePlacey": 100.00,
 	"caption": "HIP HIP Hello"
  },
@@ -22,6 +23,7 @@
 	 "hairPlacex": 0.00,
     	"hairPlacey": 0.00,
 	"eyePlacex": 10.00,
+	 "page2CaptionChoices": ["Happy Birthday"],
     	"eyePlacey": 100.00,
 	"caption": "You're a hole in 1!"
  },
