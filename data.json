@@ -5,11 +5,12 @@
 	 "category": "Birthday",
 	"image": "BirthdayCard1",
 	 "page2": "Blank",
+	 "page2CaptionYN":1,
+	"page2CaptionChoices": ["I Love You", "Happy Birthday"],
 	 "price": 4.00,
 	 "hairPlacex": 0.00,
     	"hairPlacey": 0.00,
 	"eyePlacex": 10.00,
-	 "page2CaptionChoices": ["Happy Birthday"],
     	"eyePlacey": 100.00,
 	"caption": "HIP HIP Hello"
  },
@@ -19,11 +20,12 @@
 	 "category": "Birthday",
 	"image": "Golf Draft 1",
 	 "page2": "Blank",
+	 "page2CaptionYN":1,
+	"page2CaptionChoices": ["I Love You", "Happy Birthday"],
 	 "price": 4.00,
 	 "hairPlacex": 0.00,
     	"hairPlacey": 0.00,
 	"eyePlacex": 10.00,
-	 "page2CaptionChoices": ["Happy Birthday"],
     	"eyePlacey": 100.00,
 	"caption": "You're a hole in 1!"
  },
@@ -108,16 +110,16 @@
  },
 	{
 	"id": 10,
-	"name": "Hippo",
+	"name": "Birthday",
 	"category": "Birthday",
-	"image": "BirthdayCard1",
+	"image": "BC3",
 	"page2": "Blank",
 	"price": 4.00,
 	"hairPlacex": 0.00,
     	"hairPlacey": 0.00,
 	"eyePlacex": 10.00,
     	"eyePlacey": 100.00,
-	"caption": "HIP HIP Hello"
+	"caption": "Happy Birthday"
  },
  {
 	"id": 11,
@@ -189,5 +191,21 @@
 	"eyePlacex": 10.00,
     	"eyePlacey": 100.00,
 	"caption": "To Do."
+ },
+	
+	{
+	"id": 15,
+	"name": "Forever",
+	"category": "Birthday",
+	"image": "BC4",
+	"page2": "Blank",
+	"page2CaptionYN":1,
+	"page2CaptionChoices": ["I Love You", "Happy Birthday"],
+	"price": 4.00,
+	"hairPlacex": 0.00,
+    	"hairPlacey": 0.00,
+	"eyePlacex": 10.00,
+    	"eyePlacey": 100.00,
+	"caption": "Happy Birthday"
  }
 ]
