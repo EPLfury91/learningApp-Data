@@ -45,10 +45,11 @@
 	{
 	"id": 5,
 	"name": "STOP",
-	 "category": "Save the Date",
+	"category": "Save the Date",
 	"image": "Stop",
+	"page2": "",
 	"page2CaptionYN":0,
-	 "price": 5.00,
+	"price": 5.00,
 	"hairPlacex": 0.00,
     	"hairPlacey": 0.00,
 	"eyePlacex": 60,
